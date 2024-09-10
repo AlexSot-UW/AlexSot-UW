@@ -11,10 +11,10 @@
 - 💞️ I’m looking to collaborate on ...
   Anything! I am willing to collaborate on anything technical, whether it be a website or a Raspberry Pi project!
 - 📫 How to reach me ...
-  Email: assotnik@uwaterloo.ca
-  Phone: 437-477-5566
-  Discord: asasa1183
-  Instagram: svarog1515
+  - Email: assotnik@uwaterloo.ca
+  - Phone: 437-477-5566
+  - Discord: asasa1183
+  - Instagram: svarog1515
 <!---
 AlexSot-UW/AlexSot-UW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
