@@ -5,7 +5,7 @@
 - ✨ My skills include:
   1. Programming using Java and Java API.
   2. Web development using HTML, CSS and ReactJS.
-  3. Connecting devices through TCP/IP Protocol.
+  3. Connecting devices through UDP Protocol.
 - 🌱 I’m currently learning ...
   1. C/C++ for programming hardware projects.
 - 💞️ I’m looking to collaborate on ...
