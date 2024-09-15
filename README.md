@@ -15,6 +15,7 @@
   - Phone: 437-477-5566
   - Discord: asasa1183
   - Instagram: svarog1515
+  - Old Github account: github.com/100nik0v
 <!---
 AlexSot-UW/AlexSot-UW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
