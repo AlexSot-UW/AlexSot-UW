@@ -6,8 +6,10 @@
   1. Programming using Java and Java API.
   2. Web development using HTML, CSS and ReactJS.
   3. Connecting devices through UDP Protocol.
+  4. Backend API written in Python.
 - 🌱 I’m currently learning ...
   1. C/C++ for programming hardware projects.
+  2. MATLAB/Simulink for GNC simulations.
 - 💞️ I’m looking to collaborate on ...
   Anything! I am willing to collaborate on anything technical, whether it be a website or a Raspberry Pi project!
 - 📫 How to reach me ...
