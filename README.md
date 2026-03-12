@@ -16,7 +16,6 @@
   Anything! I am willing to collaborate on anything technical, whether it be an AI project, building a website or a Raspberry Pi project!
 - 📫 How to reach me ...
   - Email: assotnik@uwaterloo.ca
-  - Phone: 437-477-5566
   - Discord: asasa1183
   - Old Github account: github.com/100nik0v
 <!---
