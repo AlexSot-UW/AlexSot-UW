@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alexander!
-  I am a second year Computer Engineering student at the University of Waterloo, currently seeking employment for the winter coop term.
+  I am a second year Computer Engineering student at the University of Waterloo, currently seeking employment for the summer coop term.
 - 👀 I’m interested in ...
   Anything AI or space related! Thats right I'm a hardcore space geek, and more recently a devoted AI learner.
 - ✨ My skills include:
